@@ -1,0 +1,39 @@
+h1 {
+    background: green;
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: black;
+}
+
+#popug {
+    background: blue;
+    text-shadow: rgb(2, 32, 1) 40px 0 40px;
+}
+
+.paragraph-2 {
+    border: 10px solid green;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    text-shadow: rgb(2, 32, 1) 40px 0 40px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Courier New;
+    text-shadow: rgb(2, 32, 1) 40px 0 40px;
+}
+
+.text{
+    font-weight: bold;
+    font-size: 23px;
+    font-family: Courier New;
+    text-align: center;
+    text-shadow: rgb(2, 32, 1) 40px 0 40px;
+}
